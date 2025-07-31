@@ -1,1 +1,1 @@
-# ddos-protection
+# DDOS PROTECTION SCRIPT ZENTRA HOST
